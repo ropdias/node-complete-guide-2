@@ -1,0 +1,21 @@
+{
+  "name": "complete-guide-section-4",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ropdias/node-complete-guide-section-4.git"
+  },
+  "author": "Rodrigo P. Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ropdias/node-complete-guide-section-4/issues"
+  },
+  "homepage": "https://github.com/ropdias/node-complete-guide-section-4#readme"
+}
