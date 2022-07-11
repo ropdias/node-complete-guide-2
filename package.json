@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "nodemon app.js",
     "start-server": "node app.js"
   },
   "repository": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ropdias/node-complete-guide-section-4/issues"
   },
-  "homepage": "https://github.com/ropdias/node-complete-guide-section-4#readme"
+  "homepage": "https://github.com/ropdias/node-complete-guide-section-4#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
