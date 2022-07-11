@@ -4,18 +4,18 @@ Examples from the **"Section 4: Improved development workflow and debugging"** o
 
 This section covered:
 
-- [ ] Understanding NPM Scripts
-- [ ] Installing 3rd Party Packages
-- [ ] Global Features vs Core Modules vs Third-Party Modules
-- [ ] Using Nodemon for Autorestarts
-- [ ] Global & Local npm Packages
-- [ ] Understanding different Error Types
-- [ ] Finding & Fixing Syntax Errors
-- [ ] Dealing with Runtime Errors
-- [ ] Logical Errors
-- [ ] Using the Debugger
-- [ ] Restarting the Debugger Automatically After Editing our App
-- [ ] Debugging Node.js in Visual Studio Code
-- [ ] Changing Variables in the Debug Console
+- [x] Understanding NPM Scripts
+- [x] Installing 3rd Party Packages
+- [x] Global Features vs Core Modules vs Third-Party Modules
+- [x] Using Nodemon for Autorestarts
+- [x] Global & Local npm Packages
+- [x] Understanding different Error Types
+- [x] Finding & Fixing Syntax Errors
+- [x] Dealing with Runtime Errors
+- [x] Logical Errors
+- [x] Using the Debugger
+- [x] Restarting the Debugger Automatically After Editing our App
+- [x] Debugging Node.js in Visual Studio Code
+- [x] Changing Variables in the Debug Console
 
 More info: https://www.udemy.com/course/nodejs-the-complete-guide/
