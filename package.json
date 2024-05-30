@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/ropdias/node-complete-guide-section-4#readme",
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "@types/node": "^20.12.13",
+    "nodemon": "^2.0.19",
+    "tsup": "^8.0.2",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
   }
 }
